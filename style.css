@@ -7,10 +7,9 @@ body {
 
 .main {
     text-align: center;
-    background-color: black;
 }
 
 .traffic_light {
-
-    
+    float: left;
+    margin-left: -315px;
 }

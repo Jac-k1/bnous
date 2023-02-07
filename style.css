@@ -4,3 +4,13 @@ body {
     background-size: cover;
     background-blend-mode: multiply;
 }
+
+.main {
+    text-align: center;
+    background-color: black;
+}
+
+.traffic_light {
+
+    
+}

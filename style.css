@@ -1,0 +1,6 @@
+body {
+    background-color: aqua;
+    background: url(./images/road3.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+}

@@ -2,7 +2,6 @@ body {
     background-color: aqua;
     background: url(./images/road3.jpg);
     background-size: cover;
-    background-blend-mode: multiply;
 }
 
 .main {
@@ -12,4 +11,31 @@ body {
 .traffic_light {
     float: left;
     margin-left: -315px;
+}
+
+.right_side {
+    float: right;
+    margin-top: 300px;
+    width: 50%;
+    height: 20%;
+
+}
+
+.dance_man {
+    float: left;
+
+}
+
+.dance_girl {
+    float: left;
+
+}
+
+.dance_captain {
+    float: right;
+
+}
+
+.campfire {
+    float: right;
 }

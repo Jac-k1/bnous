@@ -4,38 +4,43 @@ body {
     background-size: cover;
 }
 
+.name {
+    background-color: black;
+    color: white;
+    float: left;
+}
+
 .main {
     text-align: center;
 }
 
 .traffic_light {
+    display: flex;
     float: left;
     margin-left: -315px;
 }
 
 .right_side {
-    float: right;
-    margin-top: 300px;
+    display: flex;
     width: 50%;
     height: 20%;
+    justify-content: center;
+    align-items: flex-end;
+    top: 50%;
 
 }
 
 .dance_man {
-    float: left;
 
 }
 
 .dance_girl {
-    float: left;
 
 }
 
 .dance_captain {
-    float: right;
 
 }
 
 .campfire {
-    float: right;
 }
